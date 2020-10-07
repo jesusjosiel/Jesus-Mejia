@@ -3,6 +3,7 @@ int main(){
 printf("\nEste es mi segundo codigo");
 printf("\nProgramar es facil");
 printf("\nVoy a compartir con mi compañero el codigo");
+printf("\nOctavio Novelo");
 return 0;
 }
 
